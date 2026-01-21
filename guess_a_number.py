@@ -18,3 +18,6 @@ while True:
             break
     except ValueError:
             print("Your input is invalid. You should only type numbers!")
+n = int(input())
+for i in range(n):
+  pass
